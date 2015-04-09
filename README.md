@@ -1,3 +1,6 @@
+#사전 작업
+우분투 설치 [https://github.com/varteam/Install-Ubuntu14.04]
+
 # Install-Docker-On-Ubuntu
 우분투에 Docker 를 설치하는 방법
 
@@ -31,3 +34,8 @@
     Docker run hello-world
     
 자동으로 이미지를 다운 받고 컨테이너를 생성해서 명령을 실행시킨 뒤 컨테이너를 종료한다.
+
+#이후 작업
+도쿠 설치[https://github.com/varteam/Install-Dokku-on-ubuntu]
+도커UI 설치 [https://github.com/varteam/Install-DockerUI-For-Docker-Management]
+Shipyard 설치 []
